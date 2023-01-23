@@ -1,0 +1,25 @@
+h1{
+	color: blue;
+}
+
+p{
+	font-size: 20px ;
+}
+
+img{
+	border: 5px solid red;
+}
+
+a{
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.destacado{
+	background-color: yellow;
+	padding: 15px;
+}
+
+#titulo{
+	font-weight: bold;
+}
